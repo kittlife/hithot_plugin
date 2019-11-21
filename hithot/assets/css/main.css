@@ -5,3 +5,27 @@
 	clear: both;
 }
 
+
+.hithot-settings .field-col {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.hithot-settings .field-col-desc{
+	min-width: 540px;
+	max-width: calc(100% - 640px);
+	vertical-align: top;
+}
+
+.hithot-h2 {
+	display: inline-block;
+}
+
+.hithot-desc {
+	font-size: 12px;
+	font-weight: normal;
+	color: #7a919e;
+	margin: 10px 0;
+	line-height: 1.7;
+	max-width: 840px;
+}
